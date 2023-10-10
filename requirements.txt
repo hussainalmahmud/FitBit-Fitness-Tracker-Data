@@ -4,4 +4,3 @@ matplotlib
 seaborn
 scipy
 black
-nb_black
