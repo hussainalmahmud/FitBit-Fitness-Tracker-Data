@@ -1,3 +1,4 @@
+[![Test Jupyter Notebooks](https://github.com/hussainsan/FitBit-Fitness-Tracker-Data/actions/workflows/main.yml/badge.svg)](https://github.com/hussainsan/FitBit-Fitness-Tracker-Data/actions/workflows/main.yml)
 # FitBit-Fitness-Tracker-Data
 Google Analytics Capstone for Bellabeat Case Study 2- Python Analysis
 
