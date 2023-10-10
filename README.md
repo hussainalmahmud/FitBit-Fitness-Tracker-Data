@@ -17,7 +17,7 @@ A flourishing company with the potential to expand its presence in the global sm
 ### 🎯 Objective 
 Analyze and gain insights from smart device data to guide marketing strategies and recommend actionable, data-driven decisions for scaling Bellabeat’s market presence and product reach.
 
-### 🎨 Scenario 
+### 🎨 Scenario
 As a junior data analyst in the Bellabeat marketing analytics team, this project entails presenting insightful and robust data analysis to the executive team, providing them with a detailed exploration of user behaviors and recommending strategic decisions.
 
 ## 👥 Characters & Products 
