@@ -47,8 +47,8 @@ As a junior data analyst in the Bellabeat marketing analytics team, this project
 1. Clone the project, navigate to the project directory and install necessary dependencies:
 
 ```bash
-git clone [Your Repository Link]
-cd [Your Repository Name]
+git clone [Repository Link]
+cd [Repository Name]
 pip install -r requirements.txt
 ```
 2. **Explore Data**: Dive into `eda-analysis.ipynb` to explore the detailed exploratory data analysis.
